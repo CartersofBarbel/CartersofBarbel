@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CartersofBarbel.
 - 👀 I’m interested in Python/VOCALOID/FL studio/SAI.
 - 🌱 I’m currently learning Python.
-- 📫 Reach me by hyfskye@qq.com. 
+- 📫 Reach me by 1980961350@qq.com.
 
 <!---
 CartersofBarbel/CartersofBarbel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
